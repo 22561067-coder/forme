@@ -1,0 +1,1 @@
+{"name":"forme","version":"1.0.0","private":true,"description":"Photo-free design playground built with vanilla JavaScript","scripts":{"dev":"node server.cjs","check":"node --check script.js && node --check server.cjs"}}
